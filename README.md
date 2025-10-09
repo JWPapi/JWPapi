@@ -1,6 +1,43 @@
-- 👋 Hi, I’m @JWPapi
-- 👀 I’m interested in JS, React, Tailwind, NEXTJS, Prisma
-- 🌱 I’m currently learning NextJS
-- 💞️ I’m looking to collaborate on Saas Projects
-- 📫 How to reach me: Twitter: @julianmwagnertw, 
+# 👋 Hey, I’m [Your Name]
 
+I build **scalable SaaS apps** with **Next.js, TypeScript, MongoDB, Tailwind, and Vercel** — fast, clean, and production-ready.  
+I care about performance, maintainability, and shipping features that actually matter.
+
+---
+
+### ⚙️ Tech Stack
+| Area | Tools |
+|------|-------|
+| **Frontend** | Next.js · TypeScript · Tailwind CSS |
+| **Backend** | Next.js Server Actions · MongoDB · Zod |
+| **Automation** | Trigger.dev · BullMQ / Inngest (event-driven jobs) |
+| **Infra & DevOps** | Vercel · Redis · Stripe · Axiom |
+| **Quality** | ESLint · Prettier · Vitest · Turborepo |
+
+---
+
+### 🚀 What I’m Working On
+- Building fast, composable SaaS foundations with **Next.js + Trigger.dev**
+- Experimenting with **typed async workflows** and **server action patterns**
+- Scaling product UX with **clean form logic + Zod validation**
+
+---
+
+### 🧠 Philosophy
+> “Scalable systems come from simple, predictable code — not frameworks.”
+
+I like:
+- End-to-end type safety  
+- Predictable async flows  
+- Developer ergonomics that scale with the product
+
+---
+
+### 📫 Connect
+💻 [Portfolio](https://your-site.com) • 🐦 [Twitter](https://twitter.com/yourhandle) • 📧 [you@domain.com]  
+⭐ Star something if it inspired you — it helps more than you think.
+
+---
+
+> 🧩 *Efficient. Maintainable. Scalable.*  
+> Built like a boss.
