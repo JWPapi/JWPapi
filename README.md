@@ -1,4 +1,4 @@
-# 👋 Hey, I’m [Your Name]
+# 👋 Hey, I’m Julian Wagner
 
 I build **scalable SaaS apps** with **Next.js, TypeScript, MongoDB, Tailwind, and Vercel** — fast, clean, and production-ready.  
 I care about performance, maintainability, and shipping features that actually matter.
