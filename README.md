@@ -34,7 +34,6 @@ I like:
 ---
 
 ### 📫 Connect
-💻 [Portfolio](https://your-site.com) • 🐦 [Twitter](https://twitter.com/yourhandle) • 📧 [you@domain.com]  
 ⭐ Star something if it inspired you — it helps more than you think.
 
 ---
