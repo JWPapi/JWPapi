@@ -1,8 +1,4 @@
-# Hey, I'm Julian
-
-I've been programming for 20+ years and I'm still mostly trying to figure out how anything works.
-
-Right now I'm deep into **AI-native software development** — not the "add a chatbot" kind, but rethinking how code gets written when AI agents do the mechanical work. The interesting question isn't whether AI can write code. It's what the job of a software engineer becomes when it can.
+Right now I'm deep into **AI-native software development**, rethinking how code gets written when AI agents do the mechanical work. The interesting question isn't whether AI can write code. It's what the job of a software engineer becomes when it can.
 
 ## What I'm thinking about
 
