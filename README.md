@@ -1,28 +1,21 @@
 # Hey, I'm Julian
 
-Builder. 20+ years shipping products. Currently founding [Deeplead.io](https://deeplead.io).
+I've been programming for 20+ years and I'm still mostly trying to figure out how anything works.
 
-I started programming at 16 when I built [Grauezelle](https://jw.hn/projects), a riddle site that hit 200K daily visitors. Since then I've scaled companies from $32K to $4M in revenue, led marketing teams with seven-figure budgets, and spent the last few years going deep on AI-native software development.
+Right now I'm deep into **AI-native software development** — not the "add a chatbot" kind, but rethinking how code gets written when AI agents do the mechanical work. The interesting question isn't whether AI can write code. It's what the job of a software engineer becomes when it can.
 
-## What I'm focused on
+## What I'm thinking about
 
-- **Building Deeplead** — my current company
-- **AI-native development** — writing and thinking about how software engineering changes when AI agents do the mechanical work and humans focus on architecture, verification, and intent
-- **The Dark Software Fabric** — a 7-layer verification system I use to let AI agents ship code autonomously with confidence
-
-I write about this at [jw.hn](https://jw.hn).
+- **Verification as the primary skill** — if AI writes the code, building the system that catches when it's wrong is the actual craft. I wrote about this as [The Dark Software Fabric](https://jw.hn/articles/dark-software-fabric): a 7-layer hierarchy from types to E2E tests that lets autonomous agents ship with confidence.
+- **The human role in AI-native workflows** — architecture, intent, and knowing what to verify. I call this [The Ralph Loop](https://jw.hn/articles/the-ralph-loop).
+- **Why boring tech wins harder now** — mainstream stacks compound better when your coding partner learned from millions of examples of them.
+- **Security of autonomous agents** — prompt injection, containment, treating every AI-touched system as [potentially compromised from day one](https://jw.hn/articles/openclaw).
 
 ## Open source
 
-- **[wt](https://github.com/JWPapi/wt)** — Git worktree manager with deterministic dev server ports
-- **[trigger-cli](https://github.com/JWPapi/trigger-cli)** — CLI tool for Trigger.dev: list, search, and run tasks from your terminal
+- **[wt](https://github.com/JWPapi/wt)** — git worktree manager with deterministic dev server ports
+- **[trigger-cli](https://github.com/JWPapi/trigger-cli)** — CLI for Trigger.dev: list, search, and run tasks from your terminal
 
-## Stack
+## More
 
-Next.js, TypeScript, Tailwind, Trigger.dev, Vercel, MongoDB, Vitest, Playwright. I prefer boring, mainstream tech — it compounds better and AI tools understand it.
-
-## Connect
-
-- [jw.hn](https://jw.hn) — writing & projects
-- [@julianmwagnertw](https://twitter.com/julianmwagnertw) — Twitter/X
-- [LinkedIn](https://linkedin.com/in/julianmwagner)
+I write longer pieces at [jw.hn](https://jw.hn). I build with Next.js, TypeScript, Tailwind, and Trigger.dev — and I've been using the Neo keyboard layout since I was 16, which is probably the most mass-alienating thing about me.
