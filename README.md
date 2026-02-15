@@ -9,6 +9,7 @@ Right now I'm deep into **AI-native software development**, rethinking how code 
 
 ## Open source
 
+- **[eslint-human-config](https://github.com/JWPapi/eslint-human-config)** — ESLint rules to catch AI-generated slop in copy and design
 - **[wt](https://github.com/JWPapi/wt)** — git worktree manager with deterministic dev server ports
 - **[trigger-cli](https://github.com/JWPapi/trigger-cli)** — CLI for Trigger.dev: list, search, and run tasks from your terminal
 
